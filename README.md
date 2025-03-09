@@ -8,11 +8,11 @@ It is interesting to see that the loss functions have dramatically different per
 ## Autoencoder Linear NN
 After epcho=10
 
-![Linear Autoencoder Results](resources/linear_ae_epoch_10.png)
+![Linear Autoencoder Results](resources/Linear_ae_epoch_10.png)
 
 After epcho=50
 
-![Linear Autoencoder Results](resources/linear_ae_epoch_50.png)
+![Linear Autoencoder Results](resources/Linear_ae_epoch_50.png)
 
 
 ## Autoencoder Convolutional NN
